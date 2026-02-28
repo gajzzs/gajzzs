@@ -1,2 +1,1 @@
-- 👋 मेरा दुसरा नाम वासुकि कश्यप।
-- 🌱 मुछे उद्देश्यपूर्ण काम करना अति प्रिय है।
+- 👋 Aim is big, doesn't matter anything else, that's it!
