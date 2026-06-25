@@ -11,7 +11,7 @@
     </radialGradient>
   </defs>
 
-  <rect width="1200" height="180" fill="url(#sky)"/>
+  <!-- <rect width="1200" height="180" fill="url(#sky)"/> -->
 
   <!-- Twinkling stars -->
   <g fill="#FFFFFF">
