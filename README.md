@@ -13,7 +13,7 @@
 
 
 ### Numbers:
-![](https://github-readme-stats.shion.dev/api?username=gajzzs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+![gajzzs's Stats](https://github-readme-stats.vercel.app/api?username=gajzzs&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=gajzzs&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gajzzs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
