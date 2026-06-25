@@ -23,8 +23,5 @@ Notes :
 
 
 
-![](https://raw.githubusercontent.com/gajzzs/gajzzs/refs/heads/main/bottom.svg)
-<br>
-
 ![](https://komarev.com/ghpvc/?username=gajzzs)
 
