@@ -22,6 +22,7 @@ Notes :
 - ÆÆÆÆÆÆÆÆÆÆ
 
 
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=14812333)
 
 ![](https://komarev.com/ghpvc/?username=gajzzs)
 
