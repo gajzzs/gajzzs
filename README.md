@@ -20,10 +20,11 @@
 Notes :
 - ææææææææææ
 - ÆÆÆÆÆÆÆÆÆÆ
-- ![](https://komarev.com/ghpvc/?username=gajzzs)
 
 
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![](https://raw.githubusercontent.com/gajzzs/gajzzs/refs/heads/main/bottom.svg)
 <br>
+
+![](https://komarev.com/ghpvc/?username=gajzzs)
 
